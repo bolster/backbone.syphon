@@ -1,5 +1,8 @@
 {
   "name": "backbone.syphon",
   "version": "0.4.1",
-  "main": "lib/backbone.syphon.js"
+  "main": "lib/backbone.syphon.js",
+  "dependencies": {
+    "backbone": ">= 1.0"
+  }
 }
